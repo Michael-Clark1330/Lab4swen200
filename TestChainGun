@@ -1,0 +1,4 @@
+baseDamage = 15;
+maxRange = 60;
+ROF = 4;
+maxAmmo = 40;
